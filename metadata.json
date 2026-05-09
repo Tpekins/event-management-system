@@ -1,0 +1,6 @@
+{
+  "name": "Silicon Mountain Events",
+  "description": "A premier event management system for Cameroon's tech ecosystem, inspired by the Silicon Mountain community.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI-powered content generation", "Role-based access control", "Offline persistence"]
+}
